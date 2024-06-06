@@ -1,4 +1,4 @@
-<b># Stop watch </b>
+# Stop watch 
 <p>Stop Watch Designing using Applet is a mini project in Java Programming using the 
 concept of Applet. The aim of this project is learn to develop a stop watch using applet by 
 using Action Listener to handle events. This program contains three buttons Start , Stop and 
